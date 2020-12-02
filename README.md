@@ -27,13 +27,8 @@
   * Started Java in **23.11.2020**
   * Named as The Best Turkish Discord Bot Tutorial Channel in **26.11.2020**
   
-
-
-<!--
-**ardakaragoz/ardakaragoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+  <details>
+ <summary>Basic Infos About Me :zap:</summary>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -42,4 +37,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</details>

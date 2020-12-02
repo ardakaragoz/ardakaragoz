@@ -38,3 +38,80 @@
 5. Teaching Over 1 K people Software with Youtube, Discord, Github and Real platform. [👨‍](https://discord.gg/66qSv9W)
 
 </details>
+<br>
+## Stats
+ <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ardakaragoz&show_icons=true&theme=radical&custom_title=Stats%20For%20Arda%20In%20Github&cache_seconds=18000" />
+<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz&langs_count=8" />
+
+<br>
+#### Repository Stats
+
+MakeHandler
+<br>
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=makehandler" />
+<br> 
+RhinoJs
+<br>
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=rhinojs" />
+
+<br>
+<hr>
+## Tools And Languages
+
+<details>
+ <summary> <img width=25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</summary>
+ 
+ 1. Medium
+ 2. Created Some Great Websites
+ </details>
+ <details>
+ <summary> <img width=25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS</summary>
+ 
+ 1. Rookie Level
+ 2. Great Site Means Great CSS Knowledge
+ </details>
+  <details>
+ <summary> <img width=25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Web JavaScript</summary>
+ 
+ 1. Medium Level
+ 2. Great Site Means Great JavaScript knwoledge
+ </details>
+ <details>
+  <summary> <img width=25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</summary>
+ 
+ 1. Expert Level
+ 2. Main Language For Me
+ 3. HTTP Apis, NPM Modules, Console Apps and more... 
+ </details>
+ <details>
+  <summary> <img width=25 src="https://kaanacademy.com/assets/files/00/01/163.png"> C#</summary>
+ 
+ 1. Basic Level
+ 2. The Coding Language For Future
+ </details>
+  <details>
+  <summary> <img width=25 src="https://www.python.org/static/opengraph-icon-200x200.png"> Python</summary>
+ 
+ 1. Good Level
+ 2. Most Common Language For Console Apps
+ </details>
+  <details>
+  <summary> <img width=25 src="https://discord.js.org/static/logo-square.png"> Discord.js</summary>
+ 
+ 1. Expert Level
+ 2. Have A Verified Bot With Over 700 Servers
+ 3. Named As The Best Channel in Turkey in Discord Bot Tutorial
+ </details>
+   <details>
+  <summary> <img width=25 src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg"> Java</summary>
+ 
+ 1. Rookie Level
+ 2. Very Important Language
+ </details>
+  <details>
+  <summary> <img width=25 src="https://e7.pngegg.com/pngimages/808/119/png-clipart-atom-github-visual-studio-code-text-editor-computer-icons-github-text-logo.png"> Atom.io</summary>
+ 
+ 1. Best Code Editor In World
+ 2. Very Simple
+ </details>
+ 

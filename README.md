@@ -109,9 +109,16 @@
  2. Very Important Language
  </details>
   <details>
-  <summary> <img width=25 src="https://e7.pngegg.com/pngimages/808/119/png-clipart-atom-github-visual-studio-code-text-editor-computer-icons-github-text-logo.png"> Atom.io</summary>
+  <summary> Tools</summary>
  
- 1. Best Code Editor In World
- 2. Very Simple
+ 1. Atom.io
+ 2. GitHub
+ 3. Git
+ 4. Visual Studio Code
+ 5. Visual Studio
+ 6. Sublime Text
+ 7. Anaconda
+ 8. IntelliJ Idea
+ 
  </details>
  

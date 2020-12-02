@@ -34,7 +34,7 @@
 1. Currently Working In Rhino Inc. [🦏](https://rhinoinc.glitch.me)
 2. Owner Of A Coding Channel Mental Power [📹](https://www.youtube.com/channel/UCdJN1G13UswgVrnq0PyA5lA)
 3. Have A Verified Bot Called Rhino Bot (700 Servers And 750K Users) [🦏](https://discord.com/oauth2/authorize?client_id=718159106992504859&scope=bot&permissions=8)
-4. Developer of NPM Modules **makehandler, rhinojs, mental.db(Soon), rhicord(Soon)** [💻](npmjs.org/~fleeingrhinoo)
+4. Developer of NPM Modules **makehandler, rhinojs, mental.db(Soon), rhicord(Soon)** [💻](https://npmjs.org/~fleeingrhinoo)
 5. Teaching Over 1 K people Software with Youtube, Discord, Github and Real platform. [👨‍](https://discord.gg/66qSv9W)
 
 </details>

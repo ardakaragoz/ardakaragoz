@@ -49,10 +49,8 @@
 
 #### Repository Stats
 
-MakeHandler
 <br>
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=makehandler" />
-RhinoJs
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=rhinojs" />
 
 <br>

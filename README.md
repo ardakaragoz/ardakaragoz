@@ -52,12 +52,11 @@
 MakeHandler
 <br>
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=makehandler" />
-<br> 
 RhinoJs
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=rhinojs" />
 
 <br>
-<hr>
+<br>
 
 ## Tools And Languages
 

@@ -28,13 +28,13 @@
   * Named as The Best Turkish Discord Bot Tutorial Channel in **26.11.2020**
   
  <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Working And Code Infos</summary>
   
 
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. Currently Working In Rhino Inc. [🦏](https://rhinoinc.glitch.me)
+2. Owner Of A Coding Channel Mental Power [📹](https://www.youtube.com/channel/UCdJN1G13UswgVrnq0PyA5lA)
+3. Have A Verified Bot Called Rhino Bot (700 Servers And 750K Users) [🦏](https://discord.com/oauth2/authorize?client_id=718159106992504859&scope=bot&permissions=8)
+4. Developer of NPM Modules **makehandler, rhinojs, mental.db(Soon), rhicord(Soon)** [💻](npmjs.org/~fleeingrhinoo)
+5. Teaching Over 1 K people Software with Youtube, Discord, Github and Real platform. [👨‍](https://discord.gg/66qSv9W)
 
 </details>

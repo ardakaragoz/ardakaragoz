@@ -1,5 +1,7 @@
 # Hello, it's Arda Karagoz's Github!!! :zap:
 
+![](https://dewey.tailorbrands.com/production/brand_version_mockup_image/955/4715381955_fc4e3a14-c869-471b-b85a-8dafb48587c6.png?cb=1614071630)
+
 <hr>
 
 ## Part-Time Developer and a Freelancer in Rhino Inc. Owner of Rhino Inc. and Mental Power YouTube.

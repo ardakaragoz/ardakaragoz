@@ -23,7 +23,6 @@
   * Started HTML in **12.07.2020**
   * Started CSS/Web JavaScript in **21.07.2020**
   * Make The Discord Bot Proffesional in **23.08.2020**
-  * Started C# in **24.09.2020**
   * Make Discord Bot Verified in **05.10.2020**
   * Started Selling Bots in **14.11.2020**
   * Started Java in **23.11.2020**
@@ -85,12 +84,6 @@
  2. Main Language For Me
  3. HTTP Apis, NPM Modules, Console Apps and more... 
  </details>
- <details>
-  <summary> <img width=25 src="https://kaanacademy.com/assets/files/00/01/163.png"> C#</summary>
- 
- 1. Basic Level
- 2. The Coding Language For Future
- </details>
   <details>
   <summary> <img width=25 src="https://www.python.org/static/opengraph-icon-200x200.png"> Python</summary>
  
@@ -101,13 +94,13 @@
   <summary> <img width=25 src="https://discord.js.org/static/logo-square.png"> Discord.js</summary>
  
  1. Expert Level
- 2. Have A Verified Bot With Over 700 Servers
+ 2. Have A Verified Bot With Over 1600 Servers
  3. Named As The Best Channel in Turkey in Discord Bot Tutorial
  </details>
    <details>
   <summary> <img width=25 src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg"> Java</summary>
  
- 1. Rookie Level
+ 1. Medium
  2. Very Important Language
  </details>
   <details>
@@ -121,6 +114,7 @@
  6. Sublime Text
  7. Anaconda
  8. IntelliJ Idea
+ 9. PyCharm IDE
  
  </details>
  

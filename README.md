@@ -68,9 +68,9 @@
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=discordjs-ytdl-advanced" />
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=nodejs-helper" />
 
-<br>
-
-<br>
+<br><br><br>
+<hr>
+<br><br><br>
 
 ## Tools And Languages
 

@@ -27,32 +27,39 @@
   * Started Selling Bots in **14.11.2020**
   * Started Java in **23.11.2020**
   * Named as The Best Turkish Discord Bot Tutorial Channel in **26.11.2020**
+  * Started TypeScript in **21.03.2021**
+  
+  <br>
+  
+  ## Stats
+
+ <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ardakaragoz&show_icons=true&theme=radical&custom_title=Stats%20For%20Arda%20In%20Github&cache_seconds=18000" />
+<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz&langs_count=8" />
+
+<br>
   
  <details>
   <summary>Working And Code Infos</summary>
   
 
-1. Currently Working In Rhino Inc. [🦏](https://rhinoinc.glitch.me)
+1. A Freelance and student
 2. Owner Of A Coding Channel Mental Power [📹](https://www.youtube.com/channel/UCdJN1G13UswgVrnq0PyA5lA)
-3. Have A Verified Bot Called Rhino Bot (700 Servers And 750K Users) [🦏](https://discord.com/oauth2/authorize?client_id=718159106992504859&scope=bot&permissions=8)
-4. Developer of NPM Modules **makehandler, rhinojs, mental.db(Soon), rhicord(Soon)** [💻](https://npmjs.org/~fleeingrhinoo)
-5. Teaching Over 1 K people Software with Youtube, Discord, Github and Real platform. [👨‍](https://discord.gg/66qSv9W)
+3. Have A Verified Bot Called Rhino Bot (1800 Servers And 850K Users) [🦏](https://discord.com/oauth2/authorize?client_id=718159106992504859&scope=bot&permissions=8)
+4. Developer of NPM Modules **makehandler, rhino-ms, trsozluk, discordjs-ytdl-advanced, bitcoin-gold(SOON)** [💻](https://npmjs.org/~fleeingrhinoo)
+5. Teaching Over 2K people Software with Youtube, Discord, Github and Real platform. [👨‍](https://discord.gg/66qSv9W)
 
 </details>
-<br>
-
-## Stats
-
- <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ardakaragoz&show_icons=true&theme=radical&custom_title=Stats%20For%20Arda%20In%20Github&cache_seconds=18000" />
-<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz&langs_count=8" />
-
 <br>
 
 #### Repository Stats
 
 <br>
 <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=makehandler" />
-<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=rhinojs" />
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=rhino-ms" />
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=ardakaragoz" />
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=discordjs-ytdl" />
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=discordjs-ytdl-advanced" />
+<img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ardakaragoz&repo=nodejs-helper" />
 
 <br>
 <br>

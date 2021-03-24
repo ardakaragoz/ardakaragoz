@@ -34,7 +34,7 @@
   ## Stats
 
  <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ardakaragoz&show_icons=true&theme=radical&custom_title=Stats%20For%20Arda%20In%20Github&cache_seconds=18000" />
-<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz&langs_count=8" />
+<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz" />
 
 <br>
   
